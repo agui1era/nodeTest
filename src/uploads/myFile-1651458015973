@@ -1,0 +1,14 @@
+nombre,serie,fecha dia,fecha hora,planta,proceso,maquina,sku subproducto,cantidad esperada
+ot-01,ASF00091,15-01-2022,07:30,Planta A.,Proceso A,Maquina A,0102f15,1200
+ot-02,ASF00092,16-01-2022,11:00,Planta A.,Proceso A,Maquina A,0102f15,2400
+ot-03,ASF00093,17-01-2022,11:01,Planta A.,Proceso A,Maquina A,0102f15,2401
+ot-04,ASF00094,14-01-2022,11:02,Planta A.,Proceso A,Maquina A,0102f15,2402
+ot-05,ASF00095,13-01-2022,11:03,Planta A.,Proceso A,Maquina A,0102f15,2403
+ot-06,ASF00096,12-01-2022,11:04,Planta A.,Proceso A,Maquina A,0102f15,2404
+ot-07,ASF00097,18-01-2022,11:05,Planta A.,Proceso A,Maquina A,0102f15,2405
+ot-08,ASF00098,19-01-2022,11:06,Planta A.,Proceso A,Maquina A,0102f15,2406
+ot-09,ASF00099,19-01-2022,11:07,Planta A.,Proceso A,Maquina A,0102f15,2407
+ot-10,ASF00100,20-01-2022,11:08,Planta A.,Proceso A,Maquina A,0102f15,2408
+ot-11,ASF00101,21-01-2022,11:09,Planta A.,Proceso A,Maquina A,0102f15,2409
+ot-12,ASF00102,22-01-2022,11:10,Planta A.,Proceso A,Maquina A,0102f15,2410
+ot-13,ASF00103,23-01-2022,11:11,Planta A.,Proceso A,Maquina A,0102f15,2411

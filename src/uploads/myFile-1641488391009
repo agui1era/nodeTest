@@ -1,0 +1,49 @@
+nombre subproducto,unidad,formato,Maquina,condicion,sku,velocidad produccion,estandar produccion,nombre producto
+ACETATO DE SODIO 30%,Ampolla,10 mL,464,Carboniza,,3500,3500,Ampolla vidrio
+AMINOFILINA 250 MG,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+ATROPINA SULFATO 1 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+"BUPIVACAINA HCL 0,5%",Ampolla,10 mL,464,Carboniza,,3500,3500,Ampolla vidrio
+"BICARBONATO DE SODIO 8,4%",Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+CLORURO DE CALCIO 10%,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+"CLORURO DE POTASIO 14,9%",Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+DOPAMINA HCL 200 MG,Ampolla,5 mL,463,Carboniza,,4500,4500,Ampolla vidrio
+"FENTANILO 0,5 MG",Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+"FENTANILO 0,1 MG",Ampolla,2 mL,463,Normal,,6000,6000,Ampolla vidrio
+GLUCONATO DE CALCIO 10%,Ampolla,10 mL,464,Carboniza,,3500,3500,Ampolla vidrio
+HALOPERIDOL 5 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+KETOROLACO TROMETAMOL 30 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+METADONA HCL 10 MG,Ampolla,2 mL,463,Normal,,6000,6000,Ampolla vidrio
+METAMIZOL SÓDICO 1 G,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+"METAMIZOL SÓDICO 2,5 G",Ampolla,5 mL,463,Carboniza,,4500,4500,Ampolla vidrio
+METOCLOPRAMIDA HCL 10 MG,Ampolla,2 mL,463,Normal,,6000,6000,Ampolla vidrio
+MIDAZOLAM 50 MG,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+MORFINA 10 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+ONDANSETRON 4 MG,Ampolla,2 mL,463,Normal,,6000,6000,Ampolla vidrio
+ONDANSETRON 8 MG,Ampolla,4 mL,463,Normal,,5500,5500,Ampolla vidrio
+PAPAVERINA 80 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+RANITIDINA 50 MG,Ampolla,5 mL,463,Carboniza,,4500,4500,Ampolla vidrio
+SULFATO DE MAGNESIO 20%,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+SULFATO DE MAGNESIO 25%,Ampolla,5 mL,463,Normal,,5500,5500,Ampolla vidrio
+"SULFATO DE ZINC 0,88%",Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+TIAMINA HCL 30 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+VASELINA LIQUIDA ESTERIL,Ampolla,5 mL,463,Normal,,5500,5500,Ampolla vidrio
+VASELINA LIQUIDA ESTERIL,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+BIFOSFATO POTASIO 15%,Ampolla,10 mL,464,Normal,,4000,4000,Ampolla vidrio
+DOBUTAMINA HCL 250 MG,Ampolla,5 mL,463,Carboniza,,4500,4500,Ampolla vidrio
+FUROSEMIDA 20 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+MIDAZOLAM 5 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+MIDAZOLAM 15 MG,Ampolla,3 mL,463,Normal,,6000,6000,Ampolla vidrio
+MIDAZOLAM 5 MG,Ampolla,5 mL,463,Normal,,5500,5500,Ampolla vidrio
+MORFINA HCL 15 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+MORFINA HCL 20 MG,Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+"NEOSTIGMINA METILSULFATO 0,5 MG",Ampolla,1 mL,463,Normal,,6000,6000,Ampolla vidrio
+PETIDINA HCLO 100 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+AMIKACINA 500 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+CLINDAMICINA 600 MG,Ampolla,4 mL,463,Carboniza,,4500,4500,Ampolla vidrio
+DEXAMETASONA 4 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+DEXAMETASONA 8 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+DICLOFENACO SÓDICO 75 MG,Ampolla,3 mL,463,Carboniza,,5500,5500,Ampolla vidrio
+EPINEFRINA 1 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+FITOMENADIONA 1 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+FITOMENADIONA 10 MG,Ampolla,1 mL,463,Carboniza,,5800,5800,Ampolla vidrio
+BURTEN 30 MG,Ampolla,2 mL,463,Carboniza,,5800,5800,Ampolla vidrio

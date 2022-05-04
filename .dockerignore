@@ -1,0 +1,8 @@
+node_modules
+.idea
+./logs.txt
+logs.txt
+entradas.txt
+./entradas.txt
+postgres_data
+postgres_data2

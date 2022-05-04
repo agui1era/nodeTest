@@ -1,0 +1,57 @@
+nombre subproducto,unidad,formato,condicion,sku,velocidad produccion,estandar produccion,nombre producto
+PRESERV SKYN  x(2+1),3,Unidad,Normal,PR340131,1440,1800,Skyn
+PRESERV SKYN  x3 BLISTER,3,Unidad,Blister,PT340195,1440,1800,Skyn
+PRESERV SKYN INT.FEEL x3,3,Unidad,Normal,PT340245,1440,1800,Skyn
+PRESERV SKYN LARGE x3,3,Unidad,Normal,PT340237,1440,1800,Skyn
+PRESERV SKYN EXT LUBR x3,3,Unidad,Normal,PT340240,1440,1800,Skyn
+PRESERV SKYN  x(2+1) x20,3,Unidad,Normal,PR340131-12,1440,1800,Skyn
+PRESERVAT Nuda x3,3,Unidad,Normal,PT345001,1440,1800,Lifestyles
+PRESERVAT Nuda x3 20 uns x caja,3,Unidad,Normal,PT345001-12,1440,1800,Lifestyles
+PRESERVAT Nuda x3 BLISTER x20,3,Unidad,Blister,PT345030-12,1440,1800,Lifestyles
+PRESERVAT Nuda x3 BLISTER x10,3,Unidad,Blister,PT345030-30,1440,1800,Lifestyles
+PRESERVAT Nuda x12 BLISTER,12,Unidad,Blister,PT340197,1440,1800,Lifestyles
+PRESERVAT Nuda x3 5 uns x caja (tradicional),3,Caja,Normal,PT345001-32,1440,1800,Lifestyles
+PRESERVAT Nuda x12 ,12,Unidad,Normal,PT345015,1440,1800,Lifestyles
+Pack LS Bat x8 (tradicional),3,Caja,Normal,PT345264,1440,1800,Lifestyles
+PRESERVAT Stimula x2 ENJOY PLAYING,2,Unidad,Normal,PT340087,1440,1800,Lifestyles
+PRESERVAT Stimula x3,3,Unidad,Normal,PT345002,1440,1800,Lifestyles
+PRESERVAT Stimula x3 BLISTER,3,Unidad,Blister,PT345031-12,1440,1800,Lifestyles
+PRESERVAT Stimula x3 BLISTER x10,3,Unidad,Blister,PT345031-30,1440,1800,Lifestyles
+PRESERVAT Stimula x12,12,Unidad,Normal,PT345016,1440,1800,Lifestyles
+PRESERVAT Stimula x3 20 uns x caja,3,Unidad,Normal,PT345002-12,1440,1800,Lifestyles
+PRESERVAT Stimula x12 BLISTER,12,Unidad,Blister,PT340190,1440,1800,Lifestyles
+PRESERVAT Rough Rider x2 ENJOY PLAYING,2,Unidad,Normal,PT340089,1440,1800,Lifestyles
+PRESERVAT Rough Rider x3,3,Unidad,Normal,PT345003,1440,1800,Lifestyles
+PRESERVAT Rough Rider x3 20 uns x caja,3,Unidad,Normal,PT345003-12,1440,1800,Lifestyles
+PRESERVAT Rough Rider x3 BLISTER,3,Unidad,Blister,PT345032-12,1440,1800,Lifestyles
+PRESERVAT Rough Rider x3 BLISTER x10,3,Unidad,Blister,PT345032-30,1440,1800,Lifestyles
+PRESERVAT Rough Rider x12,12,Unidad,Normal,PT345017,1440,1800,Lifestyles
+PRESERVAT Rough Rider x12 BLISTER,12,Unidad,Blister,PT340191,1440,1800,Lifestyles
+PRESERVAT Forte x3 BLISTER,3,Unidad,Blister,PT345033-12,1440,1800,Lifestyles
+PRESERVAT Forte x12,12,Unidad,Normal,PT345043,1440,1800,Lifestyles
+PRESERVAT Sabores x3 Nuevos,3,Unidad,Normal,PT340311-30,1440,1800,Lifestyles
+PRESERVAT Sabores x3 Nuevos Blister,3,Unidad,Blister,PT340189-31,1440,1800,Lifestyles
+PRESERVAT Forte x3,3,Unidad,Normal,PT345042,1440,1800,Lifestyles
+PRESERVAT Sabores x12 Nuevos,12,Unidad,Normal,PT340216-30,1440,1800,Lifestyles
+PRESERVAT Sabores x12 Nuevos Blister,12,Unidad,Blister,PT345201-31,1440,1800,Lifestyles
+PRESERVAT Climax Control x3,3,Unidad,Normal,PT345024,1440,1800,Lifestyles
+PRESERVAT Climax Control x3 caja x 20,3,Unidad,Normal,PT345024-12,1440,1800,Lifestyles
+PRESERVAT Climax Control x3 BLISTER,3,Unidad,Blister,PT340128-11,1440,1800,Lifestyles
+PRESERVAT Climax Control x12,12,Unidad,Normal,PT340015,1440,1800,Lifestyles
+PRESERVAT Climax Control x12 Blister,12,Unidad,Blister,PT340015-11,1440,1800,Lifestyles
+PRESERVAT Large x3,3,Unidad,Normal,PT340349,1440,1800,Lifestyles
+PRESERVAT Large x12,12,Unidad,Normal,PT340348,1440,1800,Lifestyles
+Orgazmax x 3,3,Unidad,Normal,PT345069,1440,1800,Lifestyles
+Orgazmax x 3 C/ Blister,3,Unidad,Blister,PT345072,1440,1800,Lifestyles
+Gel Clasico 50g img nueva,1,Unidad,Normal,PT540341-36,1440,1800,Bentley
+Gel Clasico 120g Img nueva,1,Unidad,Normal,PT550063-36,1440,1800,Bentley
+Gel Frutilla 50g img nueva,1,Unidad,Normal,PT550038-36,1440,1800,Bentley
+Gel Tropical Passion 50g,1,Unidad,Normal,PT345091-35,1440,1800,Bentley
+Gel Chocolate Menta 50g,1,Unidad,Normal,PT345090-35,1440,1800,Bentley
+Gel Ice 50g,1,Unidad,Normal,PT345206,1440,1800,Bentley
+Gel Hot 50g,1,Unidad,Normal,PT540344,1440,1800,Bentley
+Gel Control 50g,1,Unidad,Normal,PT345207,1440,1800,Bentley
+Gel Play! 30g,1,Unidad,Normal,PT345213,1440,1800,Bentley
+Gel Dulce de leche,1,Unidad,Normal,PT345259,1440,1800,Bentley
+GEL BENTLEY 15g P/COPA,1,Unidad,Normal,PT345219,1440,1800,Bentley
+GEL HIDRATANTE CLINIC50g,1,Unidad,Normal,PT345254,1440,1800,Bentley

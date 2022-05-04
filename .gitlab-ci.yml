@@ -1,0 +1,21 @@
+image: docker:latest
+# When using dind, it's wise to use the overlayfs driver for
+# improved performance.
+
+stages:
+  - build
+  - test
+  - deploy
+  
+variables:
+  DOCKER_DRIVER: overlay
+services:
+- docker:dind
+before_script:
+- docker info
+build:
+  script:
+  - echo "Creando imagen"
+  - docker login --username agui1era --password imagina12
+  - docker build  -t  agui1era/backmes .
+  - docker push agui1era/backmes

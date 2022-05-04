@@ -1,0 +1,3 @@
+nombre,serie,fecha dia,fecha hora,planta,proceso,maquina,sku subproducto,cantidad esperada
+ot-01,ASF00091,15/01/2022,07:30,Planta A,Proceso A,,sku0101,1200
+ot-01,ASF00092,15/01/2022,11:00,Planta A,Proceso AA,Maquina B,sku0101,2400

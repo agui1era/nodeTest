@@ -1,0 +1,75 @@
+nombre parada;nombre categoria de parada
+18 - Falla de faldas tubos formadores.;Falla maquina 
+02 - Atraso en la entrega de sala/maquinaria.;Situaciones externas
+22 - Falla de contenedores descarga a pacmac Bilwinco.;Falla maquina 
+32 - Falla en cinta transportadora (rechazo, bidireccional, paletizado etc.).;Falta Servicio 
+40 - Falta de alimentación por falta de materia prima (o no conformidad).;Falta Servicio 
+41 - Falta de alimentación por capacidad de carga en túnel.;Falta Servicio 
+44 - Actividades ligadas al inicio del turno (charlas, inducciones, capacitaciones, ejercicios pre-operacionales, etc).;Paros Programados 
+45 - Detención del trabajo por falta de dotación.;Situaciones externas
+48 - Cumplimiento del programa (se acabo la produccion del día, se cumplió con el pedido).;Paros Programados 
+50 - Detención de línea por acumulación de productos.;Paros Programados 
+51 - Tiempo de setup asociado al cambio de formato (tubo formador y/o film).;Paros Programados 
+52 - Tiempo de setup asociado al cambio de film/zipper (IMPLICA cambio de producto).;Paros Programados 
+53 - Tiempo de setup asociado al cambio de film/zipper (NO IMPLICA cambio de producto).;Paros Programados 
+57 - Armado de máquina. ;Paros Programados 
+22 - Falla de contenedores descarga a pacmac Bilwinco.;Falla maquina 
+26 - Falla de celdas de carga bucket inferiores.;Falla maquina 
+29 - Falla de bobinas cono central.;Falla maquina 
+32 - Falla en cinta transportadora (rechazo, bidireccional, paletizado etc.).;Falla maquina 
+43 - Falta de repuestos (o no conformidad).;Falta Servicio 
+49 - Falla, caída o mantencion del sistema de información (red de internet, sistema SAP, sistema Innova o algún otro sistema de información).;Falta Servicio 
+50 - Detención de línea por acumulación de productos.;Paros Programados 
+52 - Tiempo de setup asociado al cambio de film/zipper (IMPLICA cambio de producto).;Paros Programados 
+53 - Tiempo de setup asociado al cambio de film/zipper (NO IMPLICA cambio de producto).;Paros Programados 
+55 - Detención IQF por problemas generados en Verticales, Linea Granel, Calibradoras o Paletizado.;Paros Programados 
+56 - Ajuste, calibración, cuadratura y/o reinicio de parámetros/máquina.;Paros Programados 
+57 - Armado de máquina. ;Paros Programados 
+12 - Falla de calefactores/mordaza.;Falla maquina 
+15 - Falla en fechador / cabezal.;Falla maquina 
+16 - Falla de cuchillos ;Falla maquina 
+18 - Falla de faldas tubos formadores.;Falla maquina 
+20 - Falla de Video Jet, fechador, data flex.;Falla maquina 
+33 - Falla en impresora.;Falla maquina 
+34 - Falla en teflones.;Falla maquina 
+39 - Falla en glaseadores (boquillas, bomba de agua, etc.).;Falla maquina 
+42 - Falta de insumos / materiales (o no conformidad).;Falta Servicio 
+44 - Actividades ligadas al inicio del turno (charlas, inducciones, capacitaciones, ejercicios pre-operacionales, etc).;Paros Programados 
+48 - Cumplimiento del programa (se acabo la produccion del día, se cumplió con el pedido).;Paros Programados 
+48 - Cumplimiento del programa (se acabo la produccion del día, se cumplió con el pedido).;Paros Programados 
+49 - Falla, caída o mantencion del sistema de información (red de internet, sistema SAP, sistema Innova o algún otro sistema de información).;Paros Programados 
+50 - Detención de línea por acumulación de productos.;Paros Programados 
+51 - Tiempo de setup asociado al cambio de formato (tubo formador y/o film).;Paros Programados 
+52 - Tiempo de setup asociado al cambio de film/zipper (IMPLICA cambio de producto).;Paros Programados 
+53 - Tiempo de setup asociado al cambio de film/zipper (NO IMPLICA cambio de producto).;Paros Programados 
+54 - Cambio de cinta flex y/o fechador.;Paros Programados 
+55 - Detención IQF por problemas generados en Verticales, Linea Granel, Calibradoras o Paletizado.;Falla maquina 
+56 - Ajuste, calibración, cuadratura y/o reinicio de parámetros/máquina.;Mantenimiento
+57 - Armado de máquina. ;Paros Programados 
+07 - Problemas con suministro/calidad de aire (bajas de presión). ;Falta Servicio 
+99 - Otros ;Otros
+33 - Falla en impresora.;Falla maquina 
+11 - Falla en detector de metales.;Falla maquina 
+13 - Falla en chequeador de peso.;Falla maquina 
+32 - Falla en cinta transportadora (rechazo, bidireccional, paletizado etc.).;Falla maquina 
+33 - Falla en impresora.;Falla maquina 
+42 - Falta de insumos / materiales (o no conformidad).;Paros Programados 
+45 - Detención del trabajo por falta de dotación.;Paros Programados 
+50 - Detención de línea por acumulación de productos.;Paros Programados 
+53 - Tiempo de setup asociado al cambio de film/zipper (NO IMPLICA cambio de producto).;Paros Programados 
+42 - Falta de insumos / materiales (o no conformidad).;Paros Programados 
+01 - Verificación estado de sala (habilitación SAG).;Paros Programados 
+31 - Falla en las cintas transportadoras de los tuneles.;Falla maquina 
+44 - Actividades ligadas al inicio del turno (charlas, inducciones, capacitaciones, ejercicios pre-operacionales, etc).;Paros Programados 
+46 - Pruebas de desarrollo de productos e insumos nuevos.;Paros Programados 
+48 - Cumplimiento del programa (se acabo la produccion del día, se cumplió con el pedido).;Paros Programados 
+48 - Cumplimiento del programa (se acabo la produccion del día, se cumplió con el pedido).;Paros Programados 
+49 - Falla, caída o mantencion del sistema de información (red de internet, sistema SAP, sistema Innova o algún otro sistema de información).;Paros Programados 
+50 - Detención de línea por acumulación de productos.;Paros Programados 
+52 - Tiempo de setup asociado al cambio de film/zipper (IMPLICA cambio de producto).;Paros Programados 
+53 - Tiempo de setup asociado al cambio de film/zipper (NO IMPLICA cambio de producto).;Paros Programados 
+57 - Armado de máquina. ;Mantenimiento
+99 - Otros ;otros
+08 - Problemas con suministro/calidad de amoníaco.;Falta Servicio 
+46 - Pruebas de desarrollo de productos e insumos nuevos.;Falta Servicio 
+05 - Cortes o micro-cortes de electricidad.;Falta Servicio 
